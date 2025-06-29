@@ -26,6 +26,7 @@ layout:
 * Ari Aster
 * Quentin Tarantino&#x20;
 * Stanley Kubrick
+* Guy Ritchie
 * Alfred Hitchcock
 * The Wachowskis
 * Akira Kurosawa
@@ -37,6 +38,7 @@ layout:
 * Federico Fellini
 * Fritz Lang
 * Ridley Scott
+* Robert Rodriguez
 * Hayao Miyazaki
 * Ingmar Bergman
 * Sydney Lumet
@@ -128,6 +130,7 @@ layout:
 * Goethe
 * Virginia Woolf
 * Plato
+* René Girard
 * Edgar Allan Poe
 * Victor Hugo
 * George Orwell
@@ -166,7 +169,7 @@ layout:
 * Zhu
 * Queens of the Stone Age&#x20;
 * MGMT
-* Rush
+* A Perfect Circle
 * Deftones
 * Radiohead
 * Massive Attack
@@ -247,3 +250,4 @@ layout:
 * Rainbow
 * Cream
 * Journey
+* Lilith Max

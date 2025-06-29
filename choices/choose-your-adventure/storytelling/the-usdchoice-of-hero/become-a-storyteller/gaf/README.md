@@ -51,6 +51,7 @@ layout:
 * Koyaanisqatsi
 * Arrival
 * Civil War
+* Flatliners
 * Before Sunrise
 * Hackers
 * Frankenstein
@@ -71,6 +72,7 @@ layout:
 * Nosferatu
 * The Lost Boys
 * Stalker
+* The Ugly Stepsister
 * Jacob's Ladder
 * 8 1/2
 * Run Lola Run
@@ -108,6 +110,7 @@ layout:
 * Amores Peros
 * Labyrinth
 * Office Space
+* True Romance
 * Kill, Baby... Kill
 * Monty Python and the Holy Grail
 * Lock, Stock And Two Smoking Barrels
@@ -135,6 +138,7 @@ layout:
 * Total Recall
 * La La Land
 * Irréversible
+* The Gorge
 * Slumdog Millionaire
 * WarGames
 * 30 Days of Night
@@ -152,6 +156,7 @@ layout:
 * Black Swan
 * Videodrome
 * The Nightmare Before Christmas
+* Downfall
 * Coraline
 * Bettlejuice (the original)
 * Star Wars
@@ -308,4 +313,5 @@ layout:
 * The Last of Us
 * The Sandman
 * Kaos
+* Murderbot
 

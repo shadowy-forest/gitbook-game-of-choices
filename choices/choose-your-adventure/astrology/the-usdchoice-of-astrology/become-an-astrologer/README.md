@@ -17,12 +17,15 @@ layout:
 
 # 🧙 𝙱𝚎𝚌𝚘𝚖𝚎 𝚊𝚗 𝙰𝚜𝚝𝚛𝚘𝚕𝚘𝚐𝚎𝚛
 
-<figure><img src="../../../../../.gitbook/assets/pexels-btgl-♡-13302143.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+
+<div data-full-width="true"><figure><img src="../../../../../.gitbook/assets/pexels-btgl-♡-13302143.jpg" alt="" width="563"><figcaption></figcaption></figure></div>
 
 
 
 ## <mark style="background-color:blue;">Recommended Software</mark>
 
+* [**LILIT AI**](https://www.lilit.ai/)
 * [**AstroGold**](https://www.astrogold.io/)
 
 <figure><img src="../../../../../.gitbook/assets/Screenshot 2025-04-09 at 12.35.58.png" alt=""><figcaption></figcaption></figure>
@@ -61,5 +64,5 @@ layout:
 
 ## <mark style="background-color:yellow;">Youtube Channels</mark>
 
-* \[**Intermediary]** [**Kira**](https://www.kiraryberg.com/)**'s,** [**Patrick**](https://patrickwatsonastrology.com/)**'s,** [**Nick**](https://www.nickdaganbestastrologer.com/)**'s,** [**Rick**](https://www.youtube.com/@RickLevine)**'s,** [**Christopher**](https://www.youtube.com/@christopherrenstromastro)**'s,** [**Maren**](https://www.youtube.com/@MarenAltman)**'s, or** [**Camille**](https://camillemichellegray.com/about)**'s work.**
+* \[**Intermediary]** [**Kira**](https://www.kiraryberg.com/)**'s,** [**Patrick**](https://patrickwatsonastrology.com/)**'s,** [**Nick**](https://www.nickdaganbestastrologer.com/)**'s,** [**Rick**](https://www.youtube.com/@RickLevine)**'s,** [**Christopher**](https://www.youtube.com/@christopherrenstromastro)**'s,** [**Maren**](https://www.youtube.com/@MarenAltman)**'s, or** [**Chani**](https://www.youtube.com/watch?v=mAhECln7FG4)**, or** [**Camille**](https://camillemichellegray.com/about)**'s work.**
 * **\[Advanced]** [**The Astrology Podcast**](https://www.youtube.com/@TheAstrologyPodcast)**,** [**Benebell Wen**](https://www.youtube.com/@BenebellWen)**,** [**Nick Dagan Best**](https://www.youtube.com/@NickDaganBest/featured)**,** [**Pam Gregory**](https://www.youtube.com/@PamGregoryOfficial)
